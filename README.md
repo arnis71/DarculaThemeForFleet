@@ -14,4 +14,5 @@ To add this theme to Fleet follow these simple steps:
 
 # Preview
 This is how it looks
+
 <img width="767" alt="Darkula theme for Jetbrains Fleet Preview" src="https://github.com/arnis71/DarculaThemeForFleet/assets/19541486/c71756b8-97d0-4c60-8dee-8e1e3204762c">
